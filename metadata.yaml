@@ -1,0 +1,34 @@
+_repo: The-little-merchant-b-A-story-for-little-folks_72065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia:
+    - https://en.wikipedia.org/wiki/William_Taylor_Adams
+    - http://www.gutenberg.org/ebooks/author/5655
+description: ''
+gutenberg_issued: '2023-11-08'
+identifiers:
+  gutenberg: '72065'
+language: en
+pgterms:marc905: 20230712093154optic
+pgterms:marc906: '1870'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aBoston :$bLee and Shepard, $c1870.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The little merchant : $b A story for little folks'
+url: http://www.gutenberg.org/ebooks/72065
